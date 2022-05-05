@@ -1,0 +1,13 @@
+Finding factorial for a given number
+*SOURCE CODE:
+#include <stdio.h>
+void main()
+{
+int n,i,fact=1;
+for(i=1;i<n;i++)
+{
+fact=fact*i;
+}
+printf("factorial of a num:%d",fact);
+}
+}
